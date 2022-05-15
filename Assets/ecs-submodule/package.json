@@ -1,0 +1,34 @@
+{
+  "name": "com.me.ecs",
+  "version": "2.0.1",
+  "displayName": "ME.ECS",
+  "description": "ME.ECS - it's ECS implementation for Unity Engine with full state automatic rollbacks. In general ME.ECS could be used for multiplayer real-time strategy games (or any tcp-based) because of Network support out of the box with automatic rollbacks. You can set up tick time for your game and ME.ECS will store your state and automatically sync game instances using minimum traffic (just user RPC calls, no full game sync required).",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.unity.collections": "1.0.0-pre.6",
+    "com.unity.ui": "1.0.0-preview.18",
+    "com.unity.addressables": "1.19.9",
+    "com.unity.burst": "1.5.6",
+    "com.unity.mathematics": "1.2.1",
+    "com.unity.localization": "1.0.5",
+    "com.unity.profiling.core": "1.0.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "General",
+      "url": "https://github.com/chromealex/ecs-submodule.git",
+      "scopes": [
+        "com.me.ecs"
+      ]
+    }
+  ],
+ "keywords": [
+    "ecs",
+    "determinism",
+    "framework"
+  ],
+  "author": {
+    "name": "Alex Silaev",
+    "email": "chrome.alex@gmail.com"
+  }
+}

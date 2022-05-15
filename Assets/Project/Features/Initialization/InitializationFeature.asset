@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e737e23ee41bcbc47852e7108e6cd23a, type: 3}
+  m_Name: InitializationFeature
+  m_EditorClassIdentifier: 
+  editorComment: 
+  TimeSynced: {fileID: 11400000, guid: e5b8dedab73cfe3498197744bcf79725, type: 2}
+  PlayersReady: {fileID: 11400000, guid: ada97fb0e0bdd554c9524f7218732395, type: 2}
+  FadeWalls: {fileID: 11400000, guid: cca1b274895bd19428ff792b53b8a744, type: 2}
+  WallConfigs:
+  - {fileID: 11400000, guid: d845410eb244d7c4caab418b6ae97d45, type: 2}
+  - {fileID: 11400000, guid: a032fbf24290b9340a103480f617c7f0, type: 2}
+  - {fileID: 11400000, guid: 6ebe91f8ebe5954468686e08248eb688, type: 2}
+  - {fileID: 11400000, guid: 6acce1d7141db1f418765cf7e10d78ca, type: 2}
+  NeutralConfig: {fileID: 11400000, guid: 0bbaee5185a6cf344bb0169304efe1b0, type: 2}
+  WallView: {fileID: 4989146618230058032, guid: ec591d53bc8de30438361ee02bc09123, type: 3}

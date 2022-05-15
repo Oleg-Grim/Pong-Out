@@ -1,0 +1,21 @@
+{
+    "name": "ME.ECS.Editor.Tools",
+    "rootNamespace": "",
+    "references": [
+        "ME.ECS.Serializer",
+        "ME.ECS.Editor",
+        "ME.ECS",
+        "ME.Pools"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

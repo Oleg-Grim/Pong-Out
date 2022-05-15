@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0e13efcdbfb4d3fb2a189867f5f509, type: 3}
+  m_Name: -TemplateWall
+  m_EditorClassIdentifier: 
+  sharedGroupId: 0
+  structComponents:
+  - id: 0
+  - id: 1
+  - id: 2
+  - id: 3
+  removeStructComponents: []
+  templates: []
+  editorComment: "\t\t\t"
+  usedIn:
+  - {fileID: 11400000, guid: dfc058b788c788a4cb97f08522fcde9a, type: 2}
+  - {fileID: 11400000, guid: d845410eb244d7c4caab418b6ae97d45, type: 2}
+  references:
+    version: 1
+    00000000:
+      type: {class: Position, ns: ME.ECS.Transform, asm: ME.ECS}
+      data:
+        value: {x: 0, y: 0, z: 0}
+    00000001:
+      type: {class: Scale, ns: ME.ECS.Transform, asm: ME.ECS}
+      data:
+        value: {x: 0, y: 0, z: 0}
+    00000002:
+      type: {class: CollisionRect, ns: Project.Components, asm: Project}
+      data:
+        Value: {x: 0, y: 0}
+    00000003:
+      type: {class: Normal, ns: Project.Components, asm: Project}
+      data:
+        Value: {x: 0, y: 0, z: 0}

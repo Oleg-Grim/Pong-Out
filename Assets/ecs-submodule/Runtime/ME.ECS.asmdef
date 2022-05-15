@@ -1,0 +1,26 @@
+{
+    "name": "ME.ECS",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Burst",
+        "Unity.Mathematics",
+        "ME.ECS.Serializer",
+        "ME.Pools",
+        "ME.ECS.IL2CPP",
+        "ME.Debug.WeakRef",
+        "ME.ECS.FPMath",
+        "Unity.Collections",
+        "Unity.Profiling.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Project",
+    "rootNamespace": "",
+    "references": [
+        "ME.ECS",
+        "ME.Pools",
+        "ME.ECS.Serializer",
+        "ME.ECS.IL2CPP",
+        "PhotonRealtime",
+        "PhotonUnityNetworking"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 526a34ca06809b24782ac5ff964c70c0, type: 3}
+  m_Name: AvatarFeature
+  m_EditorClassIdentifier: 
+  editorComment: 
+  PingView: {fileID: 2206812243564405098, guid: 769788675f7b2974998033fdfb04a360, type: 3}
+  PongView: {fileID: 2206812243564405098, guid: 1017fb35c70dbb844a3a304786381af7, type: 3}
+  PassPlayer: {fileID: 11400000, guid: c9d7d2b4cffcca44198d2ee3369f80e1, type: 2}

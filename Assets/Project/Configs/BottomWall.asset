@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffc534d6bbb574ce5845c38ef0fc025d, type: 3}
+  m_Name: BottomWall
+  m_EditorClassIdentifier: 
+  sharedGroupId: 0
+  structComponents:
+  - id: 0
+  - id: 1
+  - id: 2
+  - id: 3
+  removeStructComponents: []
+  templates:
+  - c7d3e7d912f8bbc4183101635aa64ee8
+  references:
+    version: 1
+    00000000:
+      type: {class: Position, ns: ME.ECS.Transform, asm: ME.ECS}
+      data:
+        value: {x: 0, y: 0, z: -7.5}
+    00000001:
+      type: {class: Scale, ns: ME.ECS.Transform, asm: ME.ECS}
+      data:
+        value: {x: 40, y: 1, z: 1}
+    00000002:
+      type: {class: CollisionRect, ns: Project.Components, asm: Project}
+      data:
+        Value: {x: 20, y: 0.5}
+    00000003:
+      type: {class: Normal, ns: Project.Components, asm: Project}
+      data:
+        Value: {x: 0, y: 0, z: 1}

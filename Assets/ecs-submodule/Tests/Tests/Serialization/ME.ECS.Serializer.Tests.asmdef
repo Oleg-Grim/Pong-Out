@@ -1,0 +1,29 @@
+{
+    "name": "ME.ECS.Serializer.Tests",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "ME.ECS",
+        "ME.ECS.Serializer",
+        "ME.Pools",
+        "ME.ECS.Tests",
+        "ME.ECS.Tests.Res",
+        "ME.ECS.FPMath"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

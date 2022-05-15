@@ -1,0 +1,19 @@
+{
+    "name": "Project.gen",
+    "rootNamespace": "",
+    "references": [
+        "ME.ECS",
+        "ME.Pools",
+        "ME.ECS.Serializer",
+        "ME.ECS.IL2CPP"
+        ,"Project"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

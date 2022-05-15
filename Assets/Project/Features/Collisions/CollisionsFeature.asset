@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49d7f797f24597149957aaa79743e536, type: 3}
+  m_Name: CollisionsFeature
+  m_EditorClassIdentifier: 
+  editorComment: 
+  WallConfigs:
+  - {fileID: 11400000, guid: d845410eb244d7c4caab418b6ae97d45, type: 2}
+  - {fileID: 11400000, guid: 6acce1d7141db1f418765cf7e10d78ca, type: 2}
+  - {fileID: 11400000, guid: a032fbf24290b9340a103480f617c7f0, type: 2}
+  - {fileID: 11400000, guid: 6ebe91f8ebe5954468686e08248eb688, type: 2}
+  WallView: {fileID: 4989146618230058032, guid: ec591d53bc8de30438361ee02bc09123, type: 3}

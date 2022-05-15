@@ -1,0 +1,26 @@
+{
+    "name": "ME.ECS.Tests",
+    "rootNamespace": "",
+    "references": [
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner",
+        "ME.ECS",
+        "ME.Pools",
+        "Unity.Burst",
+        "ME.ECS.Tests.Res",
+        "ME.ECS.FPMath"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

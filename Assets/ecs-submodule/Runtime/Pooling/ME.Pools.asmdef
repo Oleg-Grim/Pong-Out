@@ -1,0 +1,17 @@
+{
+    "name": "ME.Pools",
+    "rootNamespace": "",
+    "references": [
+        "ME.ECS.IL2CPP",
+        "ME.Debug.WeakRef"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

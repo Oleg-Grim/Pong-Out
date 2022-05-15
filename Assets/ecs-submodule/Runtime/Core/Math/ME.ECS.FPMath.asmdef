@@ -1,0 +1,17 @@
+{
+    "name": "ME.ECS.FPMath",
+    "rootNamespace": "",
+    "references": [
+        "ME.ECS.IL2CPP",
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
